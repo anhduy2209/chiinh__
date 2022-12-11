@@ -1,0 +1,7 @@
+@media screen and (max-width: 712px) {
+    .text_luv {
+        padding-top: 80% !important;
+        font-size: 30px;
+        letter-spacing: 5px;
+    }
+}
